@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="23ed200d-feb2-4c9d-a73e-1aa4cdc3b99c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/raw-assets/18/18858a142.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/raw-assets/18/18858a142.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/raw-assets/1b/1b81b7730.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/raw-assets/1b/1b81b7730.png" afterDir="false" />
-    </list>
+    <list default="true" id="23ed200d-feb2-4c9d-a73e-1aa4cdc3b99c" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,12 +33,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/res/raw-assets/1b/1b81b7730.png">
           <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/res/raw-assets/1c/1c9e457da.png">
           <provider selected="true" editor-type-id="images" />
         </entry>
@@ -100,6 +96,13 @@
               <item name="res" type="462c0819:PsiDirectoryNode" />
               <item name="raw-assets" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="sannaha.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sannaha.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="res" type="462c0819:PsiDirectoryNode" />
+              <item name="raw-assets" type="462c0819:PsiDirectoryNode" />
+              <item name="1c" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -138,12 +141,12 @@
       <option name="presentableId" value="Default" />
       <updated>1612497869708</updated>
       <workItem from="1612497872077" duration="1307000" />
-      <workItem from="1612514474002" duration="243000" />
+      <workItem from="1612514474002" duration="372000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1550000" />
+    <option name="totallyTimeSpent" value="1679000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="826" extended-state="0" />
